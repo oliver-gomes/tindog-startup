@@ -55,6 +55,7 @@ h1 {
 }
 
 /* Features */
+
 #features {
   padding: 7% 15%;
 }
@@ -117,4 +118,15 @@ h2 {
 .press-logo {
   width: 15%;
   margin: 20px 20px 50px;
+}
+
+/* Pricing */
+
+#pricing {
+  padding: 100px;
+  text-align: center;
+}
+
+.pricing-column {
+  padding: 3% 2%;
 }
